@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email - fubowen2004@outlook.com
-- 😄 Pronouns: Bug/Bug/Bug's
+- 😄 Pronouns: It/Its
 - ⚡ Fun fact: HappyBug is not a Bug :)
 
 <!---
