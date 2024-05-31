@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HappyBug7
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C/Python
+- 🌱 I’m currently learning C/Python/JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email - fubowen2004@outlook.com
 - 😄 Pronouns: It/Its
