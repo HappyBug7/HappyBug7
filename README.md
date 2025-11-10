@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HappyBug7
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @HappyBug7, an undergraduate student from xi'an Jiaotong university, majoring in Computer Science.
+- 👀 I’m interested in computer vision
 - 🌱 I’m currently learning Cpp/JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email - fubowen2004@outlook.com
+- 📫 How to reach me email - HappyBug@stu.xjtu.edu.cn
 - 😄 Pronouns: It/Its
 - ⚡ Fun fact: HappyBug is not a Bug :)
 
