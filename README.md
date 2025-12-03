@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Cpp/JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email - HappyBug@stu.xjtu.edu.cn
-- 😄 Pronouns: It/Its
 - ⚡ Fun fact: HappyBug is not a Bug :)
 
 <!---
